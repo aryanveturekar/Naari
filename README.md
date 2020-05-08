@@ -1,4 +1,4 @@
-<h1 align ="center"> :information_desk_person: Naari :ok_woman: </h1>
+<h1 align ="center"> :information_desk_person: Naari Rakshak :ok_woman: </h1>
 <h3 align ="center"> There is no tool for development more effective than the empowerment of women.</h3>
 
 ![Image](https://github.com/danishsshaikh/Naari/blob/master/app/src/main/res/drawable/github.png)
